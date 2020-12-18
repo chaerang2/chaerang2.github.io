@@ -19,10 +19,10 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 FeFoLog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -33,11 +33,11 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+코드짜는걸 업으로 삼고싶어 공부 중인 사람입니다.
+반갑습니다. 모두 오늘도 발전!
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [developer]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon.png
@@ -45,7 +45,7 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
+  name:                <Cha> <Chaeyoon>
   email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
